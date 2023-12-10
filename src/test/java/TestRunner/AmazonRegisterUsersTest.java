@@ -19,10 +19,11 @@ public class AmazonRegisterUsersTest extends BaseClass {
 		launchAmazonURL(conf.getApplicationUrl());
 	}
 
-	@Test(priority = 1)
-	public void registerUsers() throws Exception {
-		
-	}
+	/*
+	 * @Test(priority = 1) public void registerUsers() throws Exception {
+	 * 
+	 * }
+	 */
 	
 	@AfterMethod
 	public void tearDown() {
