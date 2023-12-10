@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-10T22:02:51 IST" name="Suite" finished-at="2023-12-10T22:03:15 IST" duration-ms="23755">
+    <groups>
+    </groups>
+    <test started-at="2023-12-10T22:02:51 IST" name="Test" finished-at="2023-12-10T22:03:15 IST" duration-ms="23755">
+      <class name="TestRunner.AmazonIphoneSearchFlowTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestRunner.AmazonIphoneSearchFlowTest@5fdcaa40]" started-at="2023-12-10T22:02:51 IST" name="setUp" finished-at="2023-12-10T22:02:56 IST" duration-ms="4680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchAndAddToCart()[pri:1, instance:TestRunner.AmazonIphoneSearchFlowTest@5fdcaa40]" started-at="2023-12-10T22:02:56 IST" name="searchAndAddToCart" finished-at="2023-12-10T22:03:03 IST" duration-ms="6853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAndAddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestRunner.AmazonIphoneSearchFlowTest@5fdcaa40]" started-at="2023-12-10T22:03:03 IST" name="tearDown" finished-at="2023-12-10T22:03:03 IST" duration-ms="523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestRunner.AmazonIphoneSearchFlowTest -->
+      <class name="TestRunner.AmazonFilterByPhoneTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestRunner.AmazonFilterByPhoneTest@478190fc]" started-at="2023-12-10T22:03:03 IST" name="setUp" finished-at="2023-12-10T22:03:07 IST" duration-ms="3411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchPhoneByFilter()[pri:1, instance:TestRunner.AmazonFilterByPhoneTest@478190fc]" started-at="2023-12-10T22:03:07 IST" name="searchPhoneByFilter" finished-at="2023-12-10T22:03:14 IST" duration-ms="7672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPhoneByFilter -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestRunner.AmazonFilterByPhoneTest@478190fc]" started-at="2023-12-10T22:03:14 IST" name="tearDown" finished-at="2023-12-10T22:03:15 IST" duration-ms="306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestRunner.AmazonFilterByPhoneTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
